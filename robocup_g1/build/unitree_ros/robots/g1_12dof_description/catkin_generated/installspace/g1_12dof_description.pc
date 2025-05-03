@@ -1,8 +1,0 @@
-prefix=/home/nier/robocup_g1/install
-
-Name: g1_12dof_description
-Description: Description of g1_12dof_description
-Version: 1.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 
