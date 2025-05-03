@@ -1,4 +1,0 @@
-echo "* text=auto eol=lf" > .gitattributes
-git add .gitattributes
-git commit -m "Set consistent LF line endings"
-
