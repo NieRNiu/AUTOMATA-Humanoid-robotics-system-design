@@ -1,8 +1,0 @@
-prefix=/home/nier/robocup_g1/devel
-
-Name: ddynamic_reconfigure
-Description: Description of ddynamic_reconfigure
-Version: 0.3.2
-Cflags: -I/home/nier/robocup_g1/src/unitree_ros/ddynamic_reconfigure/include
-Libs: -L${prefix}/lib -lddynamic_reconfigure
-Requires: roscpp dynamic_reconfigure
