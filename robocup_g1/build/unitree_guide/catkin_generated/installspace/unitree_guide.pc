@@ -1,8 +1,0 @@
-prefix=/home/nier/robocup_g1/install
-
-Name: unitree_guide
-Description: Description of unitree_guide
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: unitree_legged_msgs
