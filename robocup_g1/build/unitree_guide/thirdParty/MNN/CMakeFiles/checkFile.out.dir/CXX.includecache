@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/nier/robocup_g1/src/unitree_guide/thirdParty/MNN/tools/cpp/checkFile.cpp
+assert.h
+-
+stdio.h
+-
+stdlib.h
+-
+cmath
+-
+fstream
+-
+

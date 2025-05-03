@@ -1,0 +1,11 @@
+prefix=/home/nier/robocup_g1/install
+exec_prefix=${prefix}
+includedir=/home/nier/robocup_g1/install/include
+libdir=/home/nier/robocup_g1/install/lib
+
+Name: Yaml-cpp
+Description: A YAML parser and emitter for C++
+Version: 0.8.0
+Requires:
+Libs: -L${libdir} -lyaml-cpp
+Cflags: -I${includedir}

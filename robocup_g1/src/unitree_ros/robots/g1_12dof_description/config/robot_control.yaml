@@ -1,0 +1,68 @@
+g1_12dof_gazebo:
+    # Publish all joint states -----------------------------------
+    joint_state_controller:
+        type: joint_state_controller/JointStateController
+        publish_rate: 1000  
+
+
+    # left leg Controllers ---------------------------------------
+    left_hip_pitch_controller:
+        type: unitree_legged_control/UnitreeJointController
+        joint: left_hip_pitch_joint
+        pid: {p: 100.0, i: 0.0, d: 5.0}
+
+    left_hip_roll_controller:
+        type: unitree_legged_control/UnitreeJointController
+        joint: left_hip_roll_joint
+        pid: {p: 100.0, i: 0.0, d: 5.0}
+
+    left_hip_yaw_controller:
+        type: unitree_legged_control/UnitreeJointController
+        joint: left_hip_yaw_joint
+        pid: {p: 100.0, i: 0.0, d: 5.0}
+
+    left_knee_controller:
+        type: unitree_legged_control/UnitreeJointController
+        joint: left_knee_joint
+        pid: {p: 100.0, i: 0.0, d: 5.0}
+
+    left_ankle_pitch_controller:
+        type: unitree_legged_control/UnitreeJointController
+        joint: left_ankle_pitch_joint
+        pid: {p: 100.0, i: 0.0, d: 5.0}
+
+    left_ankle_roll_controller:
+        type: unitree_legged_control/UnitreeJointController
+        joint: left_ankle_roll_joint
+        pid: {p: 100.0, i: 0.0, d: 5.0}
+
+    # right leg Controllers ---------------------------------------
+    right_hip_pitch_controller:
+        type: unitree_legged_control/UnitreeJointController
+        joint: right_hip_pitch_joint
+        pid: {p: 100.0, i: 0.0, d: 5.0}
+
+    right_hip_roll_controller:
+        type: unitree_legged_control/UnitreeJointController
+        joint: right_hip_roll_joint
+        pid: {p: 100.0, i: 0.0, d: 5.0}
+
+    right_hip_yaw_controller:
+        type: unitree_legged_control/UnitreeJointController
+        joint: right_hip_yaw_joint
+        pid: {p: 100.0, i: 0.0, d: 5.0}
+
+    right_knee_controller:
+        type: unitree_legged_control/UnitreeJointController
+        joint: right_knee_joint
+        pid: {p: 100.0, i: 0.0, d: 5.0}
+
+    right_ankle_pitch_controller:
+        type: unitree_legged_control/UnitreeJointController
+        joint: right_ankle_pitch_joint
+        pid: {p: 100.0, i: 0.0, d: 5.0}
+
+    right_ankle_roll_controller:
+        type: unitree_legged_control/UnitreeJointController
+        joint: right_ankle_roll_joint
+        pid: {p: 100.0, i: 0.0, d: 5.0}

@@ -1,0 +1,2 @@
+unitree_guide:unitree_ros/ddynamic_reconfigure:unitree_ros/livox_laser_simulation:unitree_ros/realsense2_camera:unitree_ros/realsense2_description:unitree_ros/realsense_gazebo_plugin:unitree_ros/robots/g1_12dof_description:unitree_ros/robots/g1_description:unitree_ros/unitree_controller:unitree_ros/unitree_gazebo:unitree_ros/unitree_legged_control:unitree_ros_to_real/unitree_legged_msgs
+-DCATKIN_DEVEL_PREFIX=/home/nier/robocup_g1/devel -DCMAKE_INSTALL_PREFIX=/home/nier/robocup_g1/install -G Unix Makefiles

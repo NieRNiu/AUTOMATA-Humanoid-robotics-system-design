@@ -1,0 +1,43 @@
+# === Catkin build ===
+build/
+devel/
+install/
+
+# === ROS logs ===
+logs/
+log/
+
+# === CMake files ===
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# === Python cache ===
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# === ROS-generated files ===
+*.launch~
+*.autosave
+*.swp
+*.bak
+
+# === IDE files ===
+.vscode/
+.idea/
+*.code-workspace
+*.sublime-project
+*.sublime-workspace
+
+# === System ===
+.DS_Store
+Thumbs.db
+
+# === Custom ===
+*.out
+*.so
+*.mod
+*.log

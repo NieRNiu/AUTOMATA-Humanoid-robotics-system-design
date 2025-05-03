@@ -1,0 +1,16 @@
+<launch>
+
+    <arg name="user_debug" default="false"/>
+    <param name="use_sim_time" value="true"/>
+    
+    <param name="robot_description" command="$(find xacro)/xacro --inorder '$(find go2_description)/xacro/robot.xacro'
+            DEBUG:=$(arg user_debug)"/>
+
+    <node pkg="rviz" type="rviz" name="rviz" args="-d $(find unitree_guide)/data/config/rviz.rviz"/>
+    <node pkg="rosbag" type="play" name="rosbag_player"  output="screen" args="--clock -r 0.1 /home/liang/rosbag/_2023-07-22-23-06-26.bag"/>
+
+    <node pkg="robot_state_publisher" type="robot_state_publisher" name="robot_state_publisher">
+        <param name="publish_frequency" type="double" value="1000.0"/>
+    </node>
+
+</launch>

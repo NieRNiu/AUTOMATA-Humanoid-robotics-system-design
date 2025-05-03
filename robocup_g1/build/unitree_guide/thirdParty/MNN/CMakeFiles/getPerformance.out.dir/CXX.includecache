@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/nier/robocup_g1/src/unitree_guide/thirdParty/MNN/include/MNN/MNNDefine.h
+assert.h
+-
+stdio.h
+-
+TargetConditionals.h
+-
+android/log.h
+-
+syslog.h
+-
+
+/home/nier/robocup_g1/src/unitree_guide/thirdParty/MNN/source/core/Macro.h
+MNN/MNNDefine.h
+-
+BaseTsd.h
+-
+
+/home/nier/robocup_g1/src/unitree_guide/thirdParty/MNN/tools/cpp/getPerformance.cpp
+string.h
+-
+chrono
+-
+cstdint
+-
+vector
+-
+stdlib.h
+-
+MNN/MNNDefine.h
+-
+core/Macro.h
+/home/nier/robocup_g1/src/unitree_guide/thirdParty/MNN/tools/cpp/core/Macro.h
+arm_neon.h
+-
+

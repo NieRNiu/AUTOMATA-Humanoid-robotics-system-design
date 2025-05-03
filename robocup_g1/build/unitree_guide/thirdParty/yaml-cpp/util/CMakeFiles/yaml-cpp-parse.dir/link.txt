@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/yaml-cpp-parse.dir/parse.cpp.o  -o /home/nier/robocup_g1/devel/lib/unitree_guide/parse  -Wl,-rpath,/home/nier/robocup_g1/devel/lib /home/nier/robocup_g1/devel/lib/libyaml-cpp.so.0.8.0 
