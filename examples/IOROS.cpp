@@ -304,6 +304,7 @@ void IOROS::MoveCallback(const unitree_legged_msgs::MoveCmd &msg)
         rx = max<float>(cmdPanel->getUserValue_rx() - sensitivityDecrease, -1.0);
     }
 
+    // scale yaw angular velocity
     // const float MAX_LINEAR_OUTPUT = 0.5f;
     const float MAX_ANGULAR_OUTPUT = 0.2f;
 
