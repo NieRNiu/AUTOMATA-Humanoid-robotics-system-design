@@ -24,7 +24,7 @@ This repository contains the code and configuration for training and evaluating 
 
 ## Requirements
 
-* Linux or macOS
+* Ubuntu 20.04
 * NVIDIA GPU with CUDA support (for Isaac Gym)
 * [Conda](https://docs.conda.io/)
 * Python 3.8+
