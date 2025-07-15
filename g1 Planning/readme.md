@@ -90,7 +90,7 @@ def astar(grid, start, goal):
 
 ### Simulation Demo:
 A*: Green trajectory
-![System Architecture](./assets/path.png)
+![A*: Green trajectory](././assets/path.png)
 DWA: Red curves
-![System Architecture](./assets/avoid.png)
+![A*: Green trajectory](././assets/avoid.png)
 
