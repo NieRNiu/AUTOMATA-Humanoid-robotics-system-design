@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-`AUTOMATA-Humanoid-robotics-system-design` is a research- and application-oriented humanoid robotics system project. It aims to develop advanced perception, locomotion, and planning capabilities, with a special focus on the RoboCup humanoid soccer scenario. The project integrates multiple core modules and provides a unified framework for complex real-world tasks.
+`AUTOMATA-Humanoid-robotics-system-design` is a research- and application-oriented humanoid robotics system project. It aims to develop advanced perception, locomotion, and planning capabilities, with a special focus on the RoboCup humanoid footall scenario. The project integrates multiple core modules and provides a unified framework for complex real-world tasks.
 
 | Module                         | Description                                                                                         | Repository Link                         |
 |--------------------------------|-----------------------------------------------------------------------------------------------------|----------------------------------------|
