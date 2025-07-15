@@ -19,7 +19,7 @@
 ## System Architecture
 
 <!-- Insert your system architecture or illustrative diagram here -->
-![System Architecture](./path/to/your-image.png)
+![System Architecture](./assets/pipeline.png)
 
 ---
 
