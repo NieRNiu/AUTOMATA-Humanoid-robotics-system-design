@@ -10,9 +10,9 @@
 | RL-based locomotion            | Reinforcement learning-based locomotion and motion control strategies for humanoid robots.          | [RL-based locomotion](./path/to/rl-locomotion) |
 | Localization and mapping       | Self-localization and environment mapping for accurate navigation in dynamic environments.          | [Localization and mapping](./path/to/localization-mapping) |
 | Planning                       | Path planning and task-level decision-making algorithms for real-time dynamic scenarios.           | [Planning](./path/to/planning)         |
-| Realsense perception system    | Perception and obstacle detection using Realsense depth cameras.                                   | [Realsense perception](./path/to/realsense) |
-| Visual spatial localization & soccer | Visual-based localization, object detection, and tactical strategies for RoboCup soccer.      | [Visual soccer](./path/to/visual-soccer) |
-| Vision-language applications   | Integration of vision and language models for task understanding and multimodal HRI.               | [Vision-language](./path/to/vision-language) |
+| Realsense perception system    | Ongoing ...... | -- |
+| Visual spatial localization  | Ongoing ...... | -- |
+| Vision-language applications   | Ongoing ...... | -- |
 
 ---
 
