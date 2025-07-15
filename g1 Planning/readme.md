@@ -88,15 +88,9 @@ def astar(grid, start, goal):
 
 ---
 
-## ROS Integration
-This system can be integrated within the ROS (Robot Operating System) framework to execute perception, localization, global planning, and control in a modular and scalable way.
+### Simulation Demo:
+A*: Green trajectory
+![System Architecture](./assets/path.png)
+DWA: Red curves
+![System Architecture](./assets/avoid.png)
 
----
-
-## License
-This project is licensed under the MIT License.
-
----
-
-## Contact
-If you have questions or would like to contribute, please create an issue or contact the maintainers directly.
