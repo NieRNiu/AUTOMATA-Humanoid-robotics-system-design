@@ -12,7 +12,7 @@ AUTOMATA is a research- and application-oriented humanoid robotics system projec
 | Planning                       | Path planning and task-level decision-making algorithms for real-time dynamic scenarios.           | [Planning](https://github.com/NieRNiu/AUTOMATA-Humanoid-robotics-system-design/tree/main/g1%20Planning)         |
 | Realsense perception system    | Ongoing ...... | -- |
 | Visual spatial localization  | Ongoing ...... | -- |
-| Vision-language applications   | Ongoing ...... | -- |
+| Vision-language applications   | Ongoing ...... | [LLM&VLM](https://github.com/NieRNiu/AUTOMATA-Humanoid-robotics-system-design/tree/main/LLM%26VLM%20Deployment) |
 
 ---
 
