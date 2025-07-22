@@ -1,0 +1,9 @@
+names:
+  0: Ball
+  1: Post
+  2: L
+  3: T
+  4: X
+path: /home/nier/obj/train_yolo11/yolo_dataset
+train: train/images
+val: val/images
