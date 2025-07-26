@@ -11,7 +11,7 @@ AUTOMATA is a research- and application-oriented humanoid robotics system projec
 | Localization and mapping       | Self-localization and environment mapping for accurate navigation in dynamic environments.          | [Localization and mapping](https://github.com/NieRNiu/AUTOMATA-Humanoid-robotics-system-design/tree/main/g1%20Localization%20and%20Mapping) |
 | Planning                       | Path planning and task-level decision-making algorithms for real-time dynamic scenarios.           | [Planning](https://github.com/NieRNiu/AUTOMATA-Humanoid-robotics-system-design/tree/main/g1%20Planning)         |
 | Realsense perception system    | Ongoing ...... | -- |
-| Visual spatial localization  | Ongoing ...... | -- |
+| Visual spatial localization  | Ongoing ...... | -- |[visual servo football goal](https://github.com/NieRNiu/AUTOMATA-Humanoid-robotics-system-design/tree/main/LLM%26VLM%20Deployment)
 | Vision-language applications   | Ongoing ...... | [LLM&VLM](https://github.com/NieRNiu/AUTOMATA-Humanoid-robotics-system-design/tree/main/LLM%26VLM%20Deployment) |
 
 ---
